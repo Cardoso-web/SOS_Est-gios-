@@ -1,0 +1,7 @@
+{
+  "name": "sos_estagios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
